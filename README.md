@@ -1,4 +1,10 @@
-# DDIStore
+<p align="center">
+  <img
+    src="https://avatars2.githubusercontent.com/u/36809299?s=200&v=4"
+    width="125px;">
+</p>
+
+<h1 align="center">Generion data store</h1>
 
 # Cassandra
 Before start project, install cassandra.
