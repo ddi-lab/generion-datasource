@@ -19,4 +19,4 @@ In console use command [cqlsh] and run spripts:
 # For start project:
 - load used dependencies
 - [mvn clean install]
-- run /Users/melnik/JavaProject/DDIStoreCassandra/src/main/java/com/initflow/ddistore/DdiStoreApp.java
+- run <ProjectDir>/src/main/java/com/initflow/ddistore/DdiStoreApp.java
